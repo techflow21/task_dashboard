@@ -5,7 +5,7 @@
 
 This Task-dashboard is fully responsive for all devices, <br/> Built using HTML, CSS, and JavaScript.
 
-<a href="https://techflowict.github.io/task-dashboard/"><strong>➥ Live Demo</strong></a>
+<a href="https://techflow21.github.io/task_dashboard/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -24,13 +24,13 @@ To run **SOBTask-Dashboard** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/techflowict/task-dashboard.git
+sudo git clone https://github.com/techflow21/task_dashboard.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/techflowict/task-dashboard.git
+git clone https://github.com/techflow21/task_dashboard.git
 ```
 
 ### Contact
